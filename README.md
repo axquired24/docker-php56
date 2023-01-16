@@ -22,3 +22,6 @@ docker run -d --rm -p 8089:80 -v /home/ayopop/Documents/docker-php5:/var/www/htm
 
 # docker run -d -rm -p [host-port]:[container-port] -v [host-www-html-dir]:[mount-in-container] [image-name]:[version]
 ```
+
+### Thanks
+Script from https://hub.docker.com/r/porchn/php5.6-apache/dockerfile
